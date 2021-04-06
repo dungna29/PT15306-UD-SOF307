@@ -87,8 +87,24 @@ void khaiBaoVaKhoiTaoConTro()
 	printf("Gia tri cua b ram la %d \n", b);		
 	printf("--------------------------------------\n");
 	
+	//Con trỏ có thể trỏ đến con trỏ
+	ptr6 = ptr5;
+	*ptr6 = 10;
+	printf("Con tro tro den con tro----------------------\n");
+	printf("Dia chi con tro ptr7 dang tro den la %p \n", ptr6);
+	printf("Dia chi con tro ptr7 dang tro den la %d \n", *ptr6);
+	printf("Gia tri hien tai cua b = %d", b);
+}
+void sizeConTro()
+{
+	//Khi chạy như này chưa hết tốn một ô nhớ nào cả vì con trỏ chưa trỏ đến đâu cả
+	printf("SizeOf(char*) = %d\n", sizeof(char*));
+	printf("SizeOf(int*) = %d\n", sizeof(int*));
+	printf("SizeOf(long*) = %d\n", sizeof(long*));
+	printf("SizeOf(double*) = %d\n", sizeof(double*));
+	printf("SizeOf(float*) = %d\n", sizeof(float*));
 }
 int main()
 {
-	khaiBaoVaKhoiTaoConTro();
+	sizeConTro();
 }

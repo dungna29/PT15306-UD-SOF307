@@ -1,7 +1,8 @@
 ﻿  Main.c
+D:\Google Driver Dungna29\8. Demo\CauTrucDuLieuVaGiaiThuat\PT15306-UD-SOF307\PT15306_UD_SOF307\PT15306_UD_SOF307\BAI_1.3_ConTro\Main.c(50,7): warning C4101: 'ptr1': unreferenced local variable
 D:\Google Driver Dungna29\8. Demo\CauTrucDuLieuVaGiaiThuat\PT15306-UD-SOF307\PT15306_UD_SOF307\PT15306_UD_SOF307\BAI_1.3_ConTro\Main.c(53,13): warning C4101: 'a': unreferenced local variable
 D:\Google Driver Dungna29\8. Demo\CauTrucDuLieuVaGiaiThuat\PT15306-UD-SOF307\PT15306_UD_SOF307\PT15306_UD_SOF307\BAI_1.3_ConTro\Main.c(52,9): warning C4101: 'ptr3': unreferenced local variable
 D:\Google Driver Dungna29\8. Demo\CauTrucDuLieuVaGiaiThuat\PT15306-UD-SOF307\PT15306_UD_SOF307\PT15306_UD_SOF307\BAI_1.3_ConTro\Main.c(53,7): warning C4101: 'ptr4': unreferenced local variable
 D:\Google Driver Dungna29\8. Demo\CauTrucDuLieuVaGiaiThuat\PT15306-UD-SOF307\PT15306_UD_SOF307\PT15306_UD_SOF307\BAI_1.3_ConTro\Main.c(54,8): warning C4101: 'ch1': unreferenced local variable
 D:\Google Driver Dungna29\8. Demo\CauTrucDuLieuVaGiaiThuat\PT15306-UD-SOF307\PT15306_UD_SOF307\PT15306_UD_SOF307\BAI_1.3_ConTro\Main.c(51,10): warning C4101: 'ptr2': unreferenced local variable
-D:\Google Driver Dungna29\8. Demo\CauTrucDuLieuVaGiaiThuat\PT15306-UD-SOF307\PT15306_UD_SOF307\PT15306_UD_SOF307\BAI_1.3_ConTro\Main.c(88): error C4700: uninitialized local variable 'ptr1' used
+  BAI_1.3_ConTro.vcxproj -> D:\Google Driver Dungna29\8. Demo\CauTrucDuLieuVaGiaiThuat\PT15306-UD-SOF307\PT15306_UD_SOF307\PT15306_UD_SOF307\Debug\BAI_1.3_ConTro.exe
