@@ -1,5 +1,5 @@
-﻿  Main.cpp
-D:\Google Driver Dungna29\8. Demo\CauTrucDuLieuVaGiaiThuat\PT15306-UD-SOF307\PT15306_UD_SOF307\PT15306_UD_SOF307\BAI_2.4_ConTroVoiArray\Main.cpp(70,22): warning C4101: 'parrNumber': unreferenced local variable
-D:\Google Driver Dungna29\8. Demo\CauTrucDuLieuVaGiaiThuat\PT15306-UD-SOF307\PT15306_UD_SOF307\PT15306_UD_SOF307\BAI_2.4_ConTroVoiArray\Main.cpp(79,6): warning C4101: 'arr': unreferenced local variable
-D:\Google Driver Dungna29\8. Demo\CauTrucDuLieuVaGiaiThuat\PT15306-UD-SOF307\PT15306_UD_SOF307\PT15306_UD_SOF307\BAI_2.4_ConTroVoiArray\Main.cpp(70,6): warning C4101: 'arrNumber': unreferenced local variable
+﻿  Main.c
+D:\Google Driver Dungna29\8. Demo\CauTrucDuLieuVaGiaiThuat\PT15306-UD-SOF307\PT15306_UD_SOF307\PT15306_UD_SOF307\BAI_2.4_ConTroVoiArray\Main.c(70,22): warning C4101: 'parrNumber': unreferenced local variable
+D:\Google Driver Dungna29\8. Demo\CauTrucDuLieuVaGiaiThuat\PT15306-UD-SOF307\PT15306_UD_SOF307\PT15306_UD_SOF307\BAI_2.4_ConTroVoiArray\Main.c(79,6): warning C4101: 'arr': unreferenced local variable
+D:\Google Driver Dungna29\8. Demo\CauTrucDuLieuVaGiaiThuat\PT15306-UD-SOF307\PT15306_UD_SOF307\PT15306_UD_SOF307\BAI_2.4_ConTroVoiArray\Main.c(70,6): warning C4101: 'arrNumber': unreferenced local variable
   BAI_2.4_ConTroVoiArray.vcxproj -> D:\Google Driver Dungna29\8. Demo\CauTrucDuLieuVaGiaiThuat\PT15306-UD-SOF307\PT15306_UD_SOF307\PT15306_UD_SOF307\Debug\BAI_2.4_ConTroVoiArray.exe

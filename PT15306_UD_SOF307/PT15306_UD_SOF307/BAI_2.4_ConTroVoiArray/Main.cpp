@@ -98,6 +98,7 @@ int main()
 	//Sử dụng hàm Malloc để cấp phát bộ nhớ
 	
 	//a = (int*)malloc(n * sizeof(int*));//ten con tro = (kieudulieu*)malloc(soluongonho * sizeof(kieudulieu))
+	//a = (int*)calloc(n, n * sizeof(int*));
 	
 	a = new int[n];
 	//malloc không gán giá trị ban đầu
@@ -108,7 +109,7 @@ int main()
 	nhapMang(a, n);
 	inMang(a, n);
 	//xoaPhanTu(a, n, 1);
-	themPhanTu(a, n, 1, 99);
+	//themPhanTu(a, n, 1, 99);
 	printf_s("\n");
 	inMang(a, n);
 	if (a != NULL)
@@ -117,7 +118,6 @@ int main()
 		//Nếu không giải phóng ô nhớ sẽ tốn rất nhiều tài nguyên của máy tính
 		delete []a;
 	}
-
 
 	//Quiz 2: Câu 3
 	// int myArr[5] = { 1, 2, 3, 4, 5 };
